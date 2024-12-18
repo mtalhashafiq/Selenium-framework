@@ -1,0 +1,14 @@
+15/08/2023 07:51:37 PM: INFO: test_EmpStatus_count: test_001: Adding status of log class has been started
+15/08/2023 07:51:38 PM: INFO: test_EmpStatus_count: test_001: Username has been added
+15/08/2023 07:51:38 PM: INFO: test_EmpStatus_count: test_001: Password has been added
+15/08/2023 07:51:40 PM: INFO: test_EmpStatus_count: test_001: Login button has been clicked
+15/08/2023 07:51:44 PM: INFO: test_EmpStatus_count: test_001: Total count is 7
+15/08/2023 07:51:45 PM: INFO: test_EmpStatus_count: test_001: Proces of adding new status has been started
+15/08/2023 07:51:50 PM: INFO: test_EmpStatus_count: test_001: Save button clicked
+15/08/2023 07:51:55 PM: INFO: test_EmpStatus_count: test_001: Status do not save
+15/08/2023 07:51:55 PM: INFO: test_EmpStatus_count: test_001: And total count after addition is 8
+3 07:51:44 PM: INFO: test_EmpStatus_count: test_001: Total count is 7
+15/08/2023 07:51:45 PM: INFO: test_EmpStatus_count: test_001: Proces of adding new status has been started
+15/08/2023 07:51:50 PM: INFO: test_EmpStatus_count: test_001: Save button clicked
+15/08/2023 07:51:55 PM: INFO: test_EmpStatus_count: test_001: Status do not save
+15/08/2023 07:51:55 PM: INFO: test_EmpStatus_count: test_001: And total count after addition is 8
